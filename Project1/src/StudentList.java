@@ -30,11 +30,11 @@ public class StudentList {
     }
     public String getName() {
         return name;
-        }
+    }
 
-        public String getAddress() {
-            return address;
-        }
+    public String getAddress() {
+        return address;
+    }
         
         public void setAddress(String address) {
                     //validatino of input name
